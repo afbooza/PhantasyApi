@@ -1,0 +1,14 @@
+e:\Users\afbooza\Documents\Visual Studio 2017\Projects\PhantasyApi\PhantasyApi\bin\Debug\netcoreapp2.2\PhantasyApi.deps.json
+e:\Users\afbooza\Documents\Visual Studio 2017\Projects\PhantasyApi\PhantasyApi\bin\Debug\netcoreapp2.2\PhantasyApi.runtimeconfig.json
+e:\Users\afbooza\Documents\Visual Studio 2017\Projects\PhantasyApi\PhantasyApi\bin\Debug\netcoreapp2.2\PhantasyApi.runtimeconfig.dev.json
+e:\Users\afbooza\Documents\Visual Studio 2017\Projects\PhantasyApi\PhantasyApi\bin\Debug\netcoreapp2.2\PhantasyApi.dll
+e:\Users\afbooza\Documents\Visual Studio 2017\Projects\PhantasyApi\PhantasyApi\bin\Debug\netcoreapp2.2\PhantasyApi.pdb
+e:\Users\afbooza\Documents\Visual Studio 2017\Projects\PhantasyApi\PhantasyApi\obj\Debug\netcoreapp2.2\PhantasyApi.csproj.CoreCompileInputs.cache
+e:\Users\afbooza\Documents\Visual Studio 2017\Projects\PhantasyApi\PhantasyApi\obj\Debug\netcoreapp2.2\PhantasyApi.RazorAssemblyInfo.cache
+e:\Users\afbooza\Documents\Visual Studio 2017\Projects\PhantasyApi\PhantasyApi\obj\Debug\netcoreapp2.2\PhantasyApi.RazorAssemblyInfo.cs
+e:\Users\afbooza\Documents\Visual Studio 2017\Projects\PhantasyApi\PhantasyApi\obj\Debug\netcoreapp2.2\PhantasyApi.AssemblyInfoInputs.cache
+e:\Users\afbooza\Documents\Visual Studio 2017\Projects\PhantasyApi\PhantasyApi\obj\Debug\netcoreapp2.2\PhantasyApi.AssemblyInfo.cs
+e:\Users\afbooza\Documents\Visual Studio 2017\Projects\PhantasyApi\PhantasyApi\obj\Debug\netcoreapp2.2\PhantasyApi.RazorTargetAssemblyInfo.cache
+e:\Users\afbooza\Documents\Visual Studio 2017\Projects\PhantasyApi\PhantasyApi\obj\Debug\netcoreapp2.2\PhantasyApi.dll
+e:\Users\afbooza\Documents\Visual Studio 2017\Projects\PhantasyApi\PhantasyApi\obj\Debug\netcoreapp2.2\PhantasyApi.pdb
+e:\Users\afbooza\Documents\Visual Studio 2017\Projects\PhantasyApi\PhantasyApi\obj\Debug\netcoreapp2.2\PhantasyApi.csprojAssemblyReference.cache
